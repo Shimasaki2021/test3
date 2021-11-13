@@ -18,6 +18,4 @@ int main(void)
 
 # ”®ƒeƒXƒg
 
-$$
-y[n] = \sum_{k=0}^{M}b_{k}x[n-k]
-$$
+<img src="https://latex.codecogs.com/gif.latex?X[n]&space;=&space;\sum_{k=0}^{N-1}x[k]\exp({-j\frac{2&space;\pi&space;nk}{N}})"/>
