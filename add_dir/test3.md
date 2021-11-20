@@ -1,21 +1,24 @@
 
 
 
-# ���o��3
+# 見出し3
 
-����̓e�X�g3�ł��B
+これはテスト3です。
 
 ``` test3.cpp
 int main(void)
 {
-  printf("hello. �ύX�e�X�g1\n");
+  printf("hello. 変更テスト1\n");
   return 0;
 }
 ```
 <!--
-<img src="DSCF9395.JPG" width="640x480" alt="�P�H��" />
+<img src="DSCF9395.JPG" width="640x480" alt="姫路城" />
 -->
 
-# �����e�X�g
+# 数式テスト
 
 <img src="https://latex.codecogs.com/gif.latex?X[n]&space;=&space;\sum_{k=0}^{N-1}x[k]\exp({-j\frac{2&space;\pi&space;nk}{N}})"/>
+
+１次関数$y(x) = a x + b$における、$a$と$b$を求める。
+
